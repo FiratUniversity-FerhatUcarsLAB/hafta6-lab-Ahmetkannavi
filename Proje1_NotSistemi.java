@@ -1,3 +1,9 @@
+/**
+ * Ad Soyad: [Ahmed Kannavi]
+ * Öğrenci No: [240541603]
+ * Proje: [ortalama hesabı]
+ * Tarih: [27/11/2025]
+ */
 import java.util.Scanner;
 public class OgrenciOrtalama {
     public static double calculateAverage(int vize, int finalNotu, int odev) {
@@ -95,3 +101,4 @@ public class OgrenciOrtalama {
 
     }
 }
+
